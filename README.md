@@ -14,7 +14,7 @@
 ## Importing the layout
 If you don't care about any of your iterm2 settings, you can import mine.
 ```
-Iterm2 > Preferences > General > Preferences > Load Preferences from a custom folder
+Iterm2 > Preferences > General > Preferences > Load Preferences from a custom folder > com.googlecode.iterm2.plist
 ```
 Skip to [Launching Local Services](#launching-local-services)
 
@@ -23,7 +23,7 @@ Skip to [Launching Local Services](#launching-local-services)
 
 1. Import `Profiles.json`
 ```
-Iterm2 > Preferences > Profiles > Other Actions > Import JSON Profiles
+Iterm2 > Preferences > Profiles > Other Actions > Import JSON Profiles > Profiles.json
 ```
 2. Open the first profile in a new iterm window
 ```
